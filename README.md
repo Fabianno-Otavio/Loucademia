@@ -1,7 +1,7 @@
 <h1 align="center">Loucademia</h1>
 
 <h3 align="justify">
-  This project is from the Course "Mão no código" from Softblue, in which is developed an application called "Loucademia" which is a software for management of a gym, it can add new students and registry their access to the gym and show it in tables. It encompasses all from front-end to back-end and database.
+  This project is from the Course "Mão no código" from Softblue, in which is developed an application called "Loucademia" which is a software for management of a gym, it can add new students and registry their access to the gym and show it in tables. It encompasses all from front-end to back-end and database. I used HTML and CSS for the front-end and Java with Java Server Faces to develop and integrate the MySQL database.
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
